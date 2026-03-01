@@ -50,14 +50,14 @@ pip install numpy scipy matplotlib sympy pillow
 
 ```bash
 # 1. Clone or download the file
-git clone https://github.com/yourname/matrix-forge.git
+git clone github.com/diwanaditya/MATRIX_FORGE.git
 cd matrix-forge
 
 # 2. Install dependencies
 pip install numpy scipy matplotlib sympy pillow
 
 # 3. Launch the app
-python linear_algebra_solver.py
+python matrix_forge.py
 ```
 
 > **Windows / macOS / Linux** — all supported. Tkinter ships with standard Python.  
